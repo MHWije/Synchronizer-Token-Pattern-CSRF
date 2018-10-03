@@ -10,5 +10,6 @@ Steps :-
   4. Use 'mh' as username and 'mh123' as password.
   5. You are in.....
 
+
 Below link(Blog) provide breif description about the project
-Link -> https://digitalfortresslk.wordpress.com/2018/05/21/synchronizer-token-pattern-to-prevent-cross-site-request-forgery-csrf/
+Link -> https://csrfgmhwijeratne.blogspot.com/2018/10/synchronizer-token-pattern-to-prevent.html
